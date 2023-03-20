@@ -1,70 +1,31 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center" dir="auto">
+<a rel="noopener noreferrer" href="https://github.com/esthevlana/rock_paper_scissor_lizard_spock_game" target="_blank">
+<img src="./public/docs/assets/bbt_atom.png" width="110" style="max-width: 100%;"> </a> </p>
+<h1 align="center" dir="auto"><strong>The Rock Paper Scissors Lizard Spock Game</strong></h1>
+<h3 align="center" dir="auto">This app is based on the game presented in the TV show 'The Big Bang Theory'.</h3>
+<hr>
+<br>
+<br>
+<h4><strong>About the game:</strong></h4>
+<p><em>Rock, Paper, Scissors, Lizard, Spock</em> is a game of chance that expands the traditional game of Rock, Paper, Scissors. It is first used to settle a dispute about what to watch on TV between Sheldon and Raj in "The Lizard-Spock Expansion".</p>
+<p>It is mentioned again in "The Rothman Disintegration", where Sheldon explains the rules to Penny and Barry Kripke.</p>
+<p>The game was originally created by Sam Kass with Karen Bryla. According to an interview with Kass, the series producers did not originally ask for permission to use the game, but Kass was officially referenced by Sheldon as the creator of the game during the "The Rothman Disintegration" episode.</p>
+<h6>Source: <a href="https://bigbangtheory.fandom.com/wiki/Rock,_Paper,_Scissors,_Lizard,_Spock" targed="_blank">The Big Bang Theory Wiki</a></h6>
+<br>
+<h4><strong>About the project:</strong></h4>
+<p>When I decided to do this project I wanted a more complex game, where would be possible for 2 players to play against each other (using socket.io) or just 1 player against the computer. But of course, I had a lot of problems during the process that I couldn't solve because I just don't have enough knowledge to do that by myself. So I returned to the basics to be able to deliver a project that reflects the real level of my skills at this moment. Hope you enjoy it! 😊</p>
+<br>
+<h4><strong>Rules:</strong></h4>
+<ul>
+  <li>Scissors cuts Paper</li>
+  <li>Paper covers Rock</li>
+  <li>Rock crushes Lizard</li>
+  <li>Lizard poisons Spock</li>
+  <li>Spock smashes Scissors</li>
+  <li>Scissors decapitates Lizard</li>
+  <li>Lizard eats Paper</li>
+  <li>Paper disproves Spock</li>
+  <li>Spock vaporizes Rock</li>
+  <li>(and as it always has) Rock crushes Scissors</li>
+</ul>
+<br>
