@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RPSLS-game/static/css/main.0fa2db3c.css",
+    "main.js": "/RPSLS-game/static/js/main.e05731da.js",
+    "index.html": "/RPSLS-game/index.html",
+    "main.0fa2db3c.css.map": "/RPSLS-game/static/css/main.0fa2db3c.css.map",
+    "main.e05731da.js.map": "/RPSLS-game/static/js/main.e05731da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fa2db3c.css",
+    "static/js/main.e05731da.js"
+  ]
+}
