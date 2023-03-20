@@ -88,7 +88,7 @@ const App = () => {
         </div>
 
         <div className="result-display line">
-          <h1 className="lineUp flipX">{result}</h1>
+          <h1 className="flipX">{result}</h1>
         </div>
 
         <div className="btn-choice">
