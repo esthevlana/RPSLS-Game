@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/RPSLS-game/static/css/main.0fa2db3c.css",
-    "main.js": "/RPSLS-game/static/js/main.e05731da.js",
+    "main.css": "/RPSLS-game/static/css/main.30fde26c.css",
+    "main.js": "/RPSLS-game/static/js/main.8c6328ce.js",
     "index.html": "/RPSLS-game/index.html",
-    "main.0fa2db3c.css.map": "/RPSLS-game/static/css/main.0fa2db3c.css.map",
-    "main.e05731da.js.map": "/RPSLS-game/static/js/main.e05731da.js.map"
+    "main.30fde26c.css.map": "/RPSLS-game/static/css/main.30fde26c.css.map",
+    "main.8c6328ce.js.map": "/RPSLS-game/static/js/main.8c6328ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fa2db3c.css",
-    "static/js/main.e05731da.js"
+    "static/css/main.30fde26c.css",
+    "static/js/main.8c6328ce.js"
   ]
 }
