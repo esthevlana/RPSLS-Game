@@ -40,8 +40,8 @@ const App = () => {
         case "✂️🪨":
         case "🪨📜":
         case "🦎🪨":
-        case "spock🦎":
-        case "✂️spock":
+        case "🖖🦎":
+        case "✂️🖖":
         case "🦎✂️":
         case "📜🦎":
         case "🖖📜":
