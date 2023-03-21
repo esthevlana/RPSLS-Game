@@ -63,7 +63,7 @@ const App = () => {
   return (
     <>
       <Rules/>
-      <h1>The Rock Paper Scissors Lizard Spock Game</h1> 
+      <h1 className="header">The Rock Paper Scissors Lizard Spock Game</h1> 
       <div>
         <div className="info-container">
           <div className="info-card">
